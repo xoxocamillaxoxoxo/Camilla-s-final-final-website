@@ -12,7 +12,10 @@
 <title>Camilla's Website</title>
  
 h1 {
-  text-shadow: 3px 3px #E0EBC6;
+  text-shadow: 3px 3px #EC86FF 
+  h1 {
+  text-shadow: 3px 3px #EC86FF;
+};
 }
 </body>
    <p><body style="background-color:#faf0e6;"></p>
